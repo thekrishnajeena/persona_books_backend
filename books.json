@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Algorithms for Dummies",
+    "author": "Arthur",
+    "file_url": "/uploads/book1.pdf"
+  },
+  {
+    "id": "2",
+    "title": "Pragmatic Thinking and Learning",
+    "author": "Andy Hunt",
+    "file_url": "/uploads/book2.pdf"
+  }
+]
